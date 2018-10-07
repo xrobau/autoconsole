@@ -1,0 +1,6 @@
+Package: autoconsole
+Version: 1.0.0
+Architecture: all
+Maintainer: Rob Thomas <xrobau@linux.com>
+Description: Autologin on TTY1
+
